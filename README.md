@@ -32,30 +32,30 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 5. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
 
-   R: 
+   R: Porque permite tener una planificación general pero también adaptarse a cambios durante el desarrollo.
 
 
 ### Actividad 2
 
-| Etapa                         | Descripción |
-| ----------------------------- | ----------- |
-| Análisis                      |             |
-| Diseño                        |             |
-| Codificación                  |             |
-| Prueba                        |             |
-| Puesta en marcha / Despliegue |             |
+| Etapa | Descripción |
+|------|-------------|
+| Análisis | Se estudian las necesidades del sistema y los requerimientos. |
+| Diseño | Se define cómo va a funcionar el sistema. |
+| Codificación | Se escribe el código del programa. |
+| Prueba | Se revisa que el sistema funcione bien y no tenga errores. |
+| Puesta en marcha / Despliegue | El sistema se instala y empieza a usarse. |
 
 
 * Luego responda:
   * ¿En qué etapa se obtienen los requerimientos del sistema?
     
-    R:
+    R:en la etapa de analisis
   * ¿En qué etapa se construye el programa?
 
-    R:
+    R:en la etapa de codificacion
   * ¿Cuál es el objetivo principal de las pruebas?
     
-    R:
+    R:descartar errores
 ### Actividad 3
 Ordene las siguientes etapas según corresponda  Diseño
 -al modelo lineal secuencial:
